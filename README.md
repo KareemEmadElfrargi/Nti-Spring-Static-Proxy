@@ -1,4 +1,5 @@
-# Spring AOP – Day 1: JDK Dynamic Proxy
+# Spring AOP : JDK Dynamic Proxy
+@ Instractor : Mohamed Ezz
 
 A small plain-Java (no Spring yet) exercise that demonstrates the idea behind AOP: adding cross-cutting behavior (logging) to a service **without modifying it**, using a JDK dynamic proxy.
 
